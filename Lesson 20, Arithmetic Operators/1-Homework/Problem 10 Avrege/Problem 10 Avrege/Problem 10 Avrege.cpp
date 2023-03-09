@@ -7,7 +7,7 @@ float Marks()
     for (int i = 1; i <= 3; i++)
     {
         float mark = 0;
-        cout << "Plese Enter the first Mark " << i << " : ";
+        cout << "Plese Enter the Mark " << i << " : ";
         cin >> mark;
         avrege += mark;
     }
